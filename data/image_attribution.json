@@ -1742,6 +1742,24 @@
       "licenseUrl": null,
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Valvasor_-_Grad_Kolovec.jpg"
     },
+        "grad_sahenturn_pomurska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/grad_sahenturn.webp",
+      "attribution": "Marusa Erjavec Kavcic",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+            "radgona_citypark_pomurska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/radgona_park.webp",
+      "attribution": "Marusa Erjavec Kavcic",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+            "spominski_park_nikoli_vec_pomurska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/spominski_park_nikoli_vec.webp",
+      "attribution": "Marusa Erjavec Kavcic",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
     "koca_v_krnici_gorenjska": {
       "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_885.webp",
       "attribution": "Janezdrilc • CC0 • via Wikimedia Commons",
