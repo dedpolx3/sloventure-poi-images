@@ -1760,7 +1760,7 @@
       "licenseUrl": null,
       "sourcePage": ""
     },
-	         "samostan_franciska": {
+	         "samostan_franciska_obalno_kraska": {
       "imageUrl": "https://sloventure-poi-images.pages.dev/images/samostan_franciska.webp",
       "attribution": "Anja Kosi",
       "licenseUrl": null,
@@ -1769,6 +1769,36 @@
 	         "piramida_pomurska": {
       "imageUrl": "https://sloventure-poi-images.pages.dev/images/piramida_pomurska.webp",
       "attribution": "Marusa Erjavec Kavcic",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+	         "muzej_podvodnih_dejavnostih_obalno_kraska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/muzej_podvodnih_dejavnosti.webp",
+      "attribution": "Anja Kosi",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+	         "pomorski_muzej_piran_palaca_gabrielli_obalno_kraska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/pomorski_muzej.webp",
+      "attribution": "Anja Kosi",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+	         "piran_old_town_obalno_kraska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/piran_oldtown.webp",
+      "attribution": "Anja Kosi",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+	         "casa_tartini_obalno_kraska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/casa_tartini.webp",
+      "attribution": "Anja Kosi",
+      "licenseUrl": null,
+      "sourcePage": ""
+    },
+	         "mestno_obzidje_piran_obalno_kraska": {
+      "imageUrl": "https://sloventure-poi-images.pages.dev/images/obzidje_piran.webp",
+      "attribution": "Anja Kosi",
       "licenseUrl": null,
       "sourcePage": ""
     },
