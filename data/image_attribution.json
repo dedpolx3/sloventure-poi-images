@@ -1917,22 +1917,34 @@
    "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_viaducts_from_San_Sergio_01.jpg"
   },
   "krizna_jama_primorsko_notranjska": {
-   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_1041.webp",
-   "attribution": "Public domain • via Wikimedia Commons",
-   "licenseUrl": null,
-   "sourcePage": "https://commons.wikimedia.org/wiki/File:Burger_KriznaJama_02.jpg"
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2018.webp",
+   "attribution": "Tomaž Planina • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=98146307"
   },
   "grad_konjice_savinjska": {
-   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_167.webp",
-   "attribution": "CC BY-SA 3.0 • via Wikimedia Commons",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "sourcePage": "https://commons.wikimedia.org/wiki/File:BurgGonobitz2004.jpg"
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2016.webp",
+   "attribution": "Shabicht • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=83466658"
   },
   "grad_khislstein_gorenjska": {
-   "imageUrl": "https://sloventure-poi-images.pages.dev/images/grad_Kieselstein.webp",
-   "attribution": "Mihael Grmek • CC BY-SA 4.0 • via Wikimedia Commons",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-   "sourcePage": "https://commons.wikimedia.org/wiki/File:Kranj_-_Grad_Kieselstein_01.jpg"
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2015.webp",
+   "attribution": "Petra Jošt • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=138261476"
+  },
+  "grad_turn_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2014.webp",
+   "attribution": "Uroš Novina from Semič, Slovenia • CC BY 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=61569849"
+  },
+  "crno_jezero_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2017.webp",
+   "attribution": "Boris Kuznetsov • CC BY 2.0 • via Flickr",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "sourcePage": "https://www.flickr.com/photos/125787387@N08/48465674686"
   }
  }
 }
