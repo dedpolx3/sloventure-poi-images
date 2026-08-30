@@ -2203,6 +2203,204 @@
    "attribution": "Sietze Kraak • CC BY 3.0 • via Wikimedia Commons",
    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
    "sourcePage": "https://commons.wikimedia.org/wiki/File:Terme_Catez_glijbanen_zwembad_-_panoramio.jpg"
+  },
+  "mocivec_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2062.webp",
+   "attribution": "Tiia Monto • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Double_lake_2.jpg"
+  },
+  "sobcev_bajer_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2063.webp",
+   "attribution": "Mihael Grmek • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:%C5%A0obec_01.jpg"
+  },
+  "jezero_v_ledvicah_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2064.webp",
+   "attribution": "Janezdrilc • CC0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=42406127"
+  },
+  "zavrsnisko_jezero_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2065.webp",
+   "attribution": "Mihael Grmek • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Zavr%C5%A1nica_-_Stol_01.jpg"
+  },
+  "zeleno_jezero_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2066.webp",
+   "attribution": "Marilda48 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=149283052"
+  },
+  "ledine_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2067.webp",
+   "attribution": "rock_buddy • CC BY-SA 2.0 • via Flickr",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "sourcePage": "https://www.flickr.com/photos/76362354@N02/28024983909"
+  },
+  "cukova_jama_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2068.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Bobovek,_glinokopi.jpg"
+  },
+  "kreda_gorenjska_2": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2069.webp",
+   "attribution": "Smihael • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=3935969"
+  },
+  "ribnik_lahovce_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2070.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=39264898"
+  },
+  "grofov_bajer_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2071.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=132390997"
+  },
+  "pluzensko_jezero_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2072.webp",
+   "attribution": "Herzi Pinki • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=83080764"
+  },
+  "godoviski_bajer_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2073.webp",
+   "attribution": "Ajznponar • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Godovic,_Sebalk_Pond_02.jpg"
+  },
+  "jezero_pod_vrsacem_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2074.webp",
+   "attribution": "AndrejS.K • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=71973871"
+  },
+  "bajer_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2075.webp",
+   "attribution": "Knezzoran at Croatian Wikipedia • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=3105105"
+  },
+  "jezerce_v_planini_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2076.webp",
+   "attribution": "BojanM79 • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Jezerce_na_Planini.jpg"
+  },
+  "rudnisko_jezero_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2077.webp",
+   "attribution": "Ostrorogi • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Kocevsko_jezero_1.jpg"
+  },
+  "kalsko_jezero_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2078.webp",
+   "attribution": "Garygo golob • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=88992808"
+  },
+  "izvir_rakitnice_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2079.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Rakitnica,_Dolenja_vas.jpg"
+  },
+  "ribnisko_jezero_koroska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2080.webp",
+   "attribution": "breki74 from Maribor, Slovenia • CC BY-SA 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Ribni%C5%A1ko_jezero_(1).jpg"
+  },
+  "malo_zagorsko_jezero_primorsko_notranjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2081.webp",
+   "attribution": "Garygo golob • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=88979854"
+  },
+  "izvir_vroce_obalno_kraska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2082.webp",
+   "attribution": "Bojan Marušič • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Jezero_pred_izvirom_Vro%C4%8De.jpg"
+  },
+  "jezeri_v_fiesi_obalno_kraska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2083.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Fiesa_2004.jpg"
+  },
+  "vanganelsko_jezero_obalno_kraska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2084.webp",
+   "attribution": "Marko Krmac • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=118048821"
+  },
+  "jezero_otocec_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2085.webp",
+   "attribution": "Falk2 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=122501968"
+  },
+  "jezero_strahomer_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2086.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Strahomer_Pond_Slovenia_3.jpg"
+  },
+  "mocilnik_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2087.webp",
+   "attribution": "BojanM79 • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=195231427"
+  },
+  "veliki_ribnik_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2088.webp",
+   "attribution": "Yerpo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Draga_valley_ponds_2.jpg"
+  },
+  "izvir_kamniske_bistrice_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2089.webp",
+   "attribution": "Roksi1 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=94363381"
+  },
+  "jezero_bele_magnolije_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2090.webp",
+   "attribution": "Palickap • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Vol%C4%8Dji_Potok_Arboretum,_Veliko_jezero_(5).jpg"
+  },
+  "jezero_rakitna_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2091.webp",
+   "attribution": "Tit Bonač from Slovenia • CC BY 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Winter_wonderland_(8133834864).jpg"
+  },
+  "ribnik_bostanj_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2092.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=115481771"
+  },
+  "ribnik_bostanj_osrednjeslovenska_2": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2093.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=115481771"
+  },
+  "ribnik_zelodnik_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2094.webp",
+   "attribution": "TadejM • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=189538553"
   }
  }
 }
