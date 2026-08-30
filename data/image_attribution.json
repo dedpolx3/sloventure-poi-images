@@ -2179,6 +2179,30 @@
    "attribution": "BlueBay • CC BY-SA 3.0 • via Wikimedia Commons",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
    "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=17167734"
+  },
+  "terme_smarjeske_toplice_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2058.webp",
+   "attribution": "ŠmarješkeToplice • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=50075482"
+  },
+  "terme_dobrna_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2059.webp",
+   "attribution": "NM1488 • CC0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=179661325"
+  },
+  "rimske_terme_spa_business_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2060.webp",
+   "attribution": "J.O. • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Rimske_Toplice_from_above_(2019).jpg"
+  },
+  "terme_catez_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2061.webp",
+   "attribution": "Sietze Kraak • CC BY 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Terme_Catez_glijbanen_zwembad_-_panoramio.jpg"
   }
  }
 }
