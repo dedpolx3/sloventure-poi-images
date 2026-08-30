@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-08-29",
+ "updated": "2026-08-30",
  "images": {
   "cerknisko_jezero_primorsko_notranjska": {
    "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_343.webp",
@@ -1945,6 +1945,240 @@
    "attribution": "Boris Kuznetsov • CC BY 2.0 • via Flickr",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
    "sourcePage": "https://www.flickr.com/photos/125787387@N08/48465674686"
+  },
+  "hudi_grad_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2019.webp",
+   "attribution": "Hladnikm • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=45323925"
+  },
+  "grad_klevevz_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2020.webp",
+   "attribution": "Jonatan Melik Kurinčič • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Izvir_Radulje.jpg"
+  },
+  "rusevine_gradu_postojna_adelsberg_primorsko_notranjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2021.webp",
+   "attribution": "Miloš Vittori • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Postojna_castle_footpath.jpg"
+  },
+  "grajski_vrt_primorsko_notranjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2022.webp",
+   "attribution": "Petar Milošević • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Haasberg_Mansion_(Dvorec_Hoh%C5%A1perk).jpg"
+  },
+  "stari_grad_obalno_kraska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2023.webp",
+   "attribution": "Pudelek • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=11480734"
+  },
+  "fuzinski_grad_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2024.webp",
+   "attribution": "Petar Milošević • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Grad_Fu%C5%BEine_(Fu%C5%BEine_Castle,_Ljubljana).jpg"
+  },
+  "bistra_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2025.webp",
+   "attribution": "Mihael Grmek • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=48841476"
+  },
+  "stari_grad_smledniski_hrib_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2026.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Smlednik_Castle_Slovenia.JPG"
+  },
+  "grascina_repnje_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2027.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Repnje_Slovenia_-_Repnje_Castle.jpg"
+  },
+  "rojstna_hisa_louisa_adamica_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2028.webp",
+   "attribution": "Upwinxp • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dvorec_Prapro%C4%8De.jpg"
+  },
+  "bostanjski_grad_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2029.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Bostanj_Castle_Slovenia_1.JPG"
+  },
+  "blagajev_polhograjski_grad_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2030.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Polhov_Gradec_Manor_Slovenia.JPG"
+  },
+  "stari_grad_osrednjeslovenska_2": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2031.webp",
+   "attribution": "Ajznponar • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Visnja_Gora,_Old_Castle_ruins_02.jpg"
+  },
+  "dvorec_ponovice_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2032.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Ponovice_Castle.jpg"
+  },
+  "kriski_grad_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2033.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Kriz_Castle_-_east_tower.jpg"
+  },
+  "grad_zaprice_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2034.webp",
+   "attribution": "Ramón from Llanera, España • CC BY-SA 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Stari_Grad_Kamnik_005_(6805809299).jpg"
+  },
+  "grad_sinkov_turn_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2035.webp",
+   "attribution": "Doremo • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:%C5%A0inkov_Turn_Slovenia_-_church_2.jpg"
+  },
+  "dvorec_selo_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2036.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Selo_Mansion_Ljubljana_Slovenia.jpg"
+  },
+  "dvorec_lazarini_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2037.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Lazzarini_Manor_Slovenia.JPG"
+  },
+  "grascina_dol_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2038.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dol_pri_Ljubljani_Slovenia_-_Dol_Mansion.jpg"
+  },
+  "slivniski_grad_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2039.webp",
+   "attribution": "Miha Kukovec • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Grad_Slivnica_-_panoramio.jpg"
+  },
+  "bistriski_grad_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2040.webp",
+   "attribution": "Ajznponar • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Slovenska_Bistrica_Castle,_inner_courtyard.jpg"
+  },
+  "pohorski_dvor_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2041.webp",
+   "attribution": "Miha Kukovec • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Grad_Hompos_-_panoramio.jpg"
+  },
+  "grad_svecina_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2042.webp",
+   "attribution": "Flexman • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Schloss_witschein_-_svecinski_grad_-_2019_-_nord.jpg"
+  },
+  "grad_statenberg_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2043.webp",
+   "attribution": "Ajznponar • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Statenberg_mansion_02.jpg"
+  },
+  "zupnijska_c_sv_ladislava_pomurska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2044.webp",
+   "attribution": "Feri • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Cerkev_sv._Ladislava_v_Beltincih.JPG"
+  },
+  "meinlov_grad_nekdaj_freudenau_pomurska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2045.webp",
+   "attribution": "Flexman • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Schloss_Freudenau_-_Meinlov_Grad.jpg"
+  },
+  "velenjski_grad_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2046.webp",
+   "attribution": "Tilky0808 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=153283345"
+  },
+  "knezji_dvorec_celje_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2047.webp",
+   "attribution": "Szilas • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-05-24_Celje_05.jpg"
+  },
+  "pusti_grad_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2048.webp",
+   "attribution": "Role96 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=82064971"
+  },
+  "zbelovski_grad_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2049.webp",
+   "attribution": "Miran Hladnik • CC BY-SA 2.5 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/si/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=29117963"
+  },
+  "grascina_prebold_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2050.webp",
+   "attribution": "Doremo • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Prebold_Castle_Slovenia_1.jpg"
+  },
+  "spodnji_grad_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2051.webp",
+   "attribution": "Miroslav.vajdic • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Turn_Castle,_Brestanica.jpg"
+  },
+  "lutrovska_klet_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2052.webp",
+   "attribution": "Rocus18 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=77473598"
+  },
+  "grad_kolovrat_zasavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2053.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Kolovrat_Castle_Slovenia_1.jpg"
+  },
+  "grad_ormoz_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2054.webp",
+   "attribution": "Yerpo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=152950839"
+  },
+  "murska_sobota_castle_pomurska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2055.webp",
+   "attribution": "Ajznponar • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=108636218"
+  },
+  "krsko_castle_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2056.webp",
+   "attribution": "Janezdrilc • CC0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=68541117"
+  },
+  "ravne_castle_koroska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2057.webp",
+   "attribution": "BlueBay • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=17167734"
   }
  }
 }
