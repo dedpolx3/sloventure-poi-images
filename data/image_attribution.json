@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-08-30",
+ "updated": "2026-08-31",
  "images": {
   "cerknisko_jezero_primorsko_notranjska": {
    "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_343.webp",
@@ -2401,6 +2401,120 @@
    "attribution": "TadejM • CC BY-SA 4.0 • via Wikimedia Commons",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
    "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=189538553"
+  },
+  "ribnik_dobje_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2095.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dobje_Grosuplje_Slovenia_-_pond.jpg"
+  },
+  "phliski_bajer_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2096.webp",
+   "attribution": "Doremo • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=173870750"
+  },
+  "gramoznica_duplek_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2097.webp",
+   "attribution": "Dibko • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Duplek_01.jpg"
+  },
+  "slivniski_ribniki_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2098.webp",
+   "attribution": "Miha Kukovec • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Slivniski_ribniki_-_panoramio.jpg"
+  },
+  "turntajht_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2099.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Ra%C4%8Dki_ribniki_04.jpg"
+  },
+  "mali_ribnik_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2100.webp",
+   "attribution": "Eleassar • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=20656217"
+  },
+  "trije_ribniki_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2101.webp",
+   "attribution": "Dibko • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=117153051"
+  },
+  "jezero_gradisce_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2102.webp",
+   "attribution": "Ajznponar • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=130341145"
+  },
+  "falski_ribnik_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2103.webp",
+   "attribution": "breki74 • CC BY-SA 2.0 • via Flickr",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "sourcePage": "https://www.flickr.com/photos/28786233@N03/3626068556"
+  },
+  "globocek_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2104.webp",
+   "attribution": "Dibko • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Nad_tremi_ribniki_01.jpg"
+  },
+  "ribnik_farovec_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2105.webp",
+   "attribution": "Dibko • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=116554047"
+  },
+  "skalsko_jezero_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2106.webp",
+   "attribution": "Asopotnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Velenje_jezero.jpg"
+  },
+  "velenjsko_jezero_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2107.webp",
+   "attribution": "Miha Kukovec • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=54216536"
+  },
+  "zresko_jezero_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2108.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=19090773"
+  },
+  "jezero_biba_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2109.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Menina_Pasture_Slovenia_-_pond.jpg"
+  },
+  "zmajevo_jezero_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2110.webp",
+   "attribution": "Ante Perkovic • CC BY 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=2871038"
+  },
+  "ribnik_resa_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2111.webp",
+   "attribution": "Matjaž Mirt • CC BY 2.0 • via Flickr",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "sourcePage": "https://www.flickr.com/photos/82126266@N00/15649291315"
+  },
+  "stritovsko_jezero_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2112.webp",
+   "attribution": "Miran Hladnik • CC BY-SA 2.5 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/si/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=20314552"
+  },
+  "ormosko_jezero_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2113.webp",
+   "attribution": "Miggie H • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=133730938"
   }
  }
 }
