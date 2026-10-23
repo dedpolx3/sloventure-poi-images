@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-08-31",
+ "updated": "2026-10-23",
  "images": {
   "cerknisko_jezero_primorsko_notranjska": {
    "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_343.webp",
@@ -2515,6 +2515,354 @@
    "attribution": "Miggie H • CC BY-SA 3.0 • via Wikimedia Commons",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
    "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=133730938"
+  },
+  "zgornji_martuljkov_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2114.webp",
+   "attribution": "Tiia Monto • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Martuljek_waterfall3.jpg"
+  },
+  "spodnji_martuljkov_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2115.webp",
+   "attribution": "Davide Degrassi from Trieste, Italia • CC BY 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Cascate_di_Martuljek_(48681999876).jpg"
+  },
+  "sum_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2116.webp",
+   "attribution": "DimiTalen • CC0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=135358753"
+  },
+  "slap_nadiza_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2117.webp",
+   "attribution": "ModriDirkac • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=83336240"
+  },
+  "slap_crne_vode_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2118.webp",
+   "attribution": "Lan G. • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=196680933"
+  },
+  "sum_gorenjska_2": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2119.webp",
+   "attribution": "DimiTalen • CC0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=135358753"
+  },
+  "tomincev_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2120.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=73267864"
+  },
+  "peraciski_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2121.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=87866832"
+  },
+  "peracica_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2122.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=81284772"
+  },
+  "slap_mostnice_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2123.webp",
+   "attribution": "Oleg Brovko from Trieste, Italy • CC BY-SA 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Triglav_(36253146066).jpg"
+  },
+  "davski_slapovi_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2124.webp",
+   "attribution": "Doremo • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dav%C4%8Da_River_-_Middle_Falls.jpg"
+  },
+  "ankov_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2125.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Zgornje_Jezersko_Slovenia_-_Anko_Falls.jpg"
+  },
+  "lobnica_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2126.webp",
+   "attribution": "The original uploader was Lander at Slovenian Wikipedia. • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=16197612"
+  },
+  "slap_pod_kurico_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2127.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=106023722"
+  },
+  "slap_hudic_babo_pere_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2128.webp",
+   "attribution": "Ajznponar • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Hudic_babo_pere_waterfall_02.jpg"
+  },
+  "stegovniski_slap_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2129.webp",
+   "attribution": "Smihael • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Slap_Jelendol_1.jpg"
+  },
+  "slap_luknja_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2130.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=131195075"
+  },
+  "slap_basar_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2131.webp",
+   "attribution": "Ivanbranco • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Golica_hike_(31436).jpg"
+  },
+  "slap_boka_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2132.webp",
+   "attribution": "Doremo • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Boka_Falls_Slovenia.JPG"
+  },
+  "izvir_hublja_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2133.webp",
+   "attribution": "TadejM • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=85157991"
+  },
+  "slap_krampez_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2134.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Krampe%C5%BE_waterfall_VP01.jpg"
+  },
+  "slap_stopnik_2_in_3_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2135.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Stopnik2_Waterfall_VP02.jpg"
+  },
+  "slap_brusnik_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2136.webp",
+   "attribution": "Bojan Marušič • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=158208844"
+  },
+  "gregorcicev_slap_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2137.webp",
+   "attribution": "Sundavi18 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=124351277"
+  },
+  "slap_curk_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2138.webp",
+   "attribution": "JanezH • CC BY 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=54121915"
+  },
+  "slap_beri_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2139.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=91706407"
+  },
+  "slap_stopnik_1_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2140.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Stopnik1_Waterfall_VP01.jpg"
+  },
+  "slap_parabola_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2141.webp",
+   "attribution": "Ljuba brank at Slovenian Wikipedia • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=27723513"
+  },
+  "slap_sum_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2142.webp",
+   "attribution": "Lbavdaz • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=82631388"
+  },
+  "slap_sopota_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2143.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=91707550"
+  },
+  "slap_svino_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2144.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=91699703"
+  },
+  "nad_bino_skalo_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2145.webp",
+   "attribution": "APneunzehn74 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=128829108"
+  },
+  "brdarjev_slap_v_gacniku_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2146.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Brdarjev_slap_na_Ga%C4%8Dniku.jpg"
+  },
+  "ceber_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2147.webp",
+   "attribution": "MyotisSI • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=70024364"
+  },
+  "sedelnikov_slap_koroska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2148.webp",
+   "attribution": "Ajznponar • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=92743387"
+  },
+  "slap_nad_preklanim_balvanom_primorsko_notranjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2149.webp",
+   "attribution": "Ljaž • CC BY 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Geranium_nodosum_flower_(23a).jpeg"
+  },
+  "slap_gora_primorsko_notranjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2150.webp",
+   "attribution": "Doremo • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=89873531"
+  },
+  "slap_supot_obalno_kraska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2151.webp",
+   "attribution": "TICKoper • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=44394039"
+  },
+  "spodnji_slap_visnjice_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2152.webp",
+   "attribution": "Ajznponar • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Visnjica,_lower_fall_02.jpg"
+  },
+  "zgornji_slap_visnjice_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2153.webp",
+   "attribution": "Ajznponar • CC0 • via Wikimedia Commons",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Visnjica,_upper_fall_01.jpg"
+  },
+  "kobilji_curek_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2154.webp",
+   "attribution": "Ljuba brank • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=61363965"
+  },
+  "sumik_osrednjeslovenska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2155.webp",
+   "attribution": "Jernej Borovinšek • CC BY-SA 2.5 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/si/deed.en/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=16229838"
+  },
+  "veliki_sumik_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2156.webp",
+   "attribution": "breki74 from Maribor, Slovenia • CC BY-SA 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=31350922"
+  },
+  "vernski_slap_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2157.webp",
+   "attribution": "breki74 • CC BY-SA 2.0 • via Flickr",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "sourcePage": "https://www.flickr.com/photos/28786233@N03/2813383465"
+  },
+  "framski_slap_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2158.webp",
+   "attribution": "Andrej Jakobčič • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=71129499"
+  },
+  "slap_rinka_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2159.webp",
+   "attribution": "Andrejj • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=2312007"
+  },
+  "slap_pod_marofom_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2160.webp",
+   "attribution": "Ljuba brank at Slovenian Wikipedia • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=31849148"
+  },
+  "slap_centralni_ivovec_savinjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2161.webp",
+   "attribution": "Danilo Tic from Slovenska Bistrica, Slovenia • CC BY-SA 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Pri_tunelu_(3125461173).jpg"
+  },
+  "slap_jasenk_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2162.webp",
+   "attribution": "Tele02 • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=103224651"
+  },
+  "slap_pekel_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2163.webp",
+   "attribution": "The original uploader was Ljuba brank at Slovenian Wikipedia. • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=27760693"
+  },
+  "slap_bojanca_posavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2164.webp",
+   "attribution": "The original uploader was Ljuba brank at Slovenian Wikipedia. • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=27760713"
+  },
+  "gibinski_slap_pomurska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2165.webp",
+   "attribution": "Vid Pogacnik • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=133121809"
+  },
+  "planinski_dom_tamar_gorenjska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2166.webp",
+   "attribution": "J.O. • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dom_v_Tamarju_(2018).jpg"
+  },
+  "koca_na_mali_gori_goriska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2167.webp",
+   "attribution": "Bojan Marušič • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Ko%C4%8Da_na_Mali_Gori.jpg"
+  },
+  "planinski_dom_na_mirni_gori_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2168.webp",
+   "attribution": "Uroš Novina from Semič, Slovenia • CC BY 2.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Planinski_dom_na_Mirni_gori_(51671439930).jpg"
+  },
+  "planinski_dom_pri_gospodicni_jugovzhodna_slovenija": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2169.webp",
+   "attribution": "Andrejj • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Gospodi%C4%8Dna_Gorjanci.jpg"
+  },
+  "gozdarska_koca_sumik_podravska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2170.webp",
+   "attribution": "Miha Kukovec • CC BY-SA 3.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Dom_na_Sumiku_-_panoramio.jpg"
+  },
+  "planinski_rudarski_dom_na_kalu_zasavska": {
+   "imageUrl": "https://sloventure-poi-images.pages.dev/images/poi_2171.webp",
+   "attribution": "J.O. • CC BY-SA 4.0 • via Wikimedia Commons",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourcePage": "https://commons.wikimedia.org/wiki/File:Kal_pri_Hrastniku_Planiniski_Dom.jpg"
   }
  }
 }
